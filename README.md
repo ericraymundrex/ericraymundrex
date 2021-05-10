@@ -9,7 +9,7 @@
 
 ## Get in touch 💭
 
-Instagram : [@_._eric_rex_._](https://www.instagram.com/_._eric_rex_._/)
+Instagram : [@the_ericrex](https://www.instagram.com/_._eric_rex_._/)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)]()
