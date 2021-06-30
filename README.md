@@ -4,9 +4,8 @@
 
 ## Currently learning React 
 
--> Currently learning React
--> Currently working on [React Expenses Tracker](https://github.com/ericraymundrex/Expenses_Tracker)
--> Currently working on [Micro-Service for authentication](https://github.com/ericraymundrex/React_user_autentication_API)
+- Currently working on [React Expenses Tracker](https://github.com/ericraymundrex/Expenses_Tracker)
+- Currently working on [Micro-Service for authentication](https://github.com/ericraymundrex/React_user_autentication_API)
 
 ---
 
