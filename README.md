@@ -2,4 +2,4 @@
 
 | Learning      | Projects |
 | ----------- | ----------- |
-| Shell      | Password Manager    |
+| Shell      | - Password Manager    |
