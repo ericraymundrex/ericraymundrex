@@ -17,13 +17,13 @@
 
 <table>
   <tr>
-    <th>Language/ Technology</th>
-    <th>Projects</th>
+    <td>Language/ Technology</td>
+    <td>Projects</td>
   </tr>
   <tr>
     <td>Bash Script</td>
     <td>
-     [Password Manager](https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)
+     - Password Manager(https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)
     </td>
   </tr>
 </table>
