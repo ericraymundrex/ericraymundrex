@@ -16,10 +16,7 @@
 ### Repositories
 
 <table>
-  <tr>
-    <td>Language/ Technology</td>
-    <td>Projects</td>
-  </tr>
+
   <tr>
     <td>Bash Script</td>
     <td>
