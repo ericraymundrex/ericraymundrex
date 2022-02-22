@@ -1,4 +1,8 @@
 # Hi there, I'm Eric Rex
+- Software Engineer at Innovaccer Analytics.
+- Leet Code: 16 Problems solved
+- Hacker Rank: 
+- Technology Working on: Django, PostgreSQL ,and Linux
 
 | Learning      | Projects |
 | ---------------------------------------------------------------------------- | ----------- |
