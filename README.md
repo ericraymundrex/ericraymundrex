@@ -2,7 +2,7 @@
 - I  ♥️  Programming & Designing Data-Intensive Applications.
 - Software Engineer at Innovaccer Analytics.
 - Leet Code               : [16 Problems solved](https://leetcode.com/ericrex09/)
-- Hacker Rank             : 
+- Hacker Rank             : [ericrexs8](https://www.hackerrank.com/ericrexs8)
 - CodeChef                : 
 - Technologies Working on : Django, PostgreSQL ,and Linux
 - Hobby Technologies      : Blockchain
