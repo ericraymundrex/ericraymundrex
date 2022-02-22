@@ -2,4 +2,4 @@
 
 | Learning      | Projects |
 | ----------- | ----------- |
-| Shell      | - [Password Manager](https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)    |
+| Bash Script    | - [Password Manager](https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)    |
