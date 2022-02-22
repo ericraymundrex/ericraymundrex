@@ -1,3 +1,6 @@
+<div align="center">
+<img align="center" width="75%" height = "75%" src="https://static01.nyt.com/images/2020/07/02/business/02Techfix-illo/01Techfix-illo-jumbo.gif?quality=90&auto=webp" alt="cover" />
+</div>
 ## Hi there, I'm Eric Rex
 - I  ♥️  Programming & Designing Data-Intensive Applications.
 - Software Engineer at Innovaccer Analytics.
