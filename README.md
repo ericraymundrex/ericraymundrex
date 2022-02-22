@@ -14,11 +14,19 @@
 - Hobby Technologies      : Blockchain
 
 ### Repositories
-| Language/ Technology      | Projects | 
-| ---------------------------------------------------------------------------- | ----------- |
-| Bash Script    | - [Password Manager](https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)    |
 
-
+<table>
+  <tr>
+    <th>Language/ Technology</th>
+    <th>Projects</th>
+  </tr>
+  <tr>
+    <td>Bash Script</td>
+    <td>
+     [Password Manager](https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)
+    </td>
+  </tr>
+</table>
 
 
 
