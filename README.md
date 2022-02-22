@@ -1,4 +1,5 @@
 ## Hi there, I'm Eric Rex
+- I ❤️ Coding
 - Software Engineer at Innovaccer Analytics.
 - Leet Code               : [16 Problems solved](https://leetcode.com/ericrex09/)
 - Hacker Rank             : 
