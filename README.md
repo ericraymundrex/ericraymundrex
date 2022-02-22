@@ -11,4 +11,4 @@
 | Bash Script    | - [Password Manager](https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-)    |
 
 ### Connect me in
-[LinkedIn](https://www.linkedin.com/in/ericrex/)
+[LinkedIn](https://www.linkedin.com/in/ericrex/) | [Telegram](https://t.me/ericrex20)
