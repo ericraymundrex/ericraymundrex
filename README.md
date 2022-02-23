@@ -6,7 +6,6 @@
 
 - I  ♥️  Programming & Designing Data-Intensive Applications.
 - Software Engineer at Innovaccer Analytics.
-- Follow my Blogs: [Medium](https://medium.com/@ericrexs8)
 - Leet Code               : [Solved 16 Problems](https://leetcode.com/ericrex09/)
 - Hacker Rank             : [ericrexs8](https://www.hackerrank.com/ericrexs8)
 - CodeChef                : 
