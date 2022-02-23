@@ -24,7 +24,8 @@
     </td>
   </tr>
 </table>
-
+<img align="center" width="75%" height = "75%" src="https://github.com/ericraymundrex/ericraymundrex/blob/main/vim_easytest.gif?raw=true" alt="cover" />
+</div>
 
 
 ### Connect me in
