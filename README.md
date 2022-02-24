@@ -11,7 +11,7 @@
 - CodeChef                : 
 - Codepen                 : [ericrexcode](https://codepen.io/ericrexcode)
 - Technologies Working on : Django, PostgreSQL ,and Linux
-- Hobby Technologies      : Blockchain
+- Hobby Technologies      : Blockchain, and Quantum computers.
 
 ### Repositories
 
