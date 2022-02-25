@@ -29,7 +29,7 @@
     </td>
   </tr>
    <tr>
-    <td>Extrenal Training Projects</td>
+    <td>Extrenal Training Projects @Innovaccer</td>
     <td>
       - <a href="https://github.com/ericraymundrex/Innovaccer_External_Training">Click here</a>
     </td>
