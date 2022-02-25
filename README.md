@@ -20,7 +20,7 @@
   <tr>
     <td>Bash Script</td>
     <td>
-      - <a href="https://github.com/ericraymundrex/Project1_Innovaccer_Training-External-">Password Manager</a>
+      - <a href="https://github.com/ericraymundrex/Password_Manager">Password Manager</a>
     </td>
   </tr>
 </table>
