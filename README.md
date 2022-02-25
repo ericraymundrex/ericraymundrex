@@ -23,6 +23,12 @@
       - <a href="https://github.com/ericraymundrex/Password_Manager">Password Manager</a>
     </td>
   </tr>
+   <tr>
+    <td>Extrenal Training Projects</td>
+    <td>
+      - <a href="https://github.com/ericraymundrex/Innovaccer_External_Training">Click here</a>
+    </td>
+  </tr>
 </table>
 
 
