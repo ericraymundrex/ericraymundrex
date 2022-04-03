@@ -16,7 +16,7 @@
 
 ### Repositories
 
-<table>
+<table style="width: 100%;">
  <tr>
     <td>Language / Tools</td>
     <td>
