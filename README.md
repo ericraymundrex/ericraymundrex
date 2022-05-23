@@ -5,14 +5,7 @@
 ## Hi there, I'm Eric Rex <img src="https://github.com/ericraymundrex/ericraymundrex/blob/main/Mario_Hello_Big.gif?raw=true" width="30px">
 
 - I  ♥️  Programming & Designing Data-Intensive Applications.
-- Software Engineer at Innovaccer Analytics.
-- Leet Code               : [Solved 16 Problems](https://leetcode.com/ericrex09/) | [My Notes](https://github.com/ericraymundrex/leetcode)
-- Hacker Rank             : [ericrexs8](https://www.hackerrank.com/ericrexs8)
-- CodeChef                : 
-- Codepen                 : [ericrexcode](https://codepen.io/ericrexcode)
-- DockerHub               : [ericxrex](https://hub.docker.com/u/ericxrex)
-- Technologies Working on : Django, PostgreSQL ,and Linux
-- Hobby Technologies      : Blockchain, and Quantum computers.
+
 
 ### Repositories
 
