@@ -2,7 +2,7 @@
 <img align="center" width="75%" height = "75%" src="https://github.com/ericraymundrex/ericraymundrex/blob/main/68747470733a2f2f73746174696330312e6e79742e636f6d2f696d616765732f323032302f30372f30322f627573696e6573732f3032546563686669782d696c6c6f2f3031546563686669782d696c6c6f2d6a756d626f2e6769663f7175616c6974793d3930266175746f3d77656270.gif?raw=true" alt="cover" />
 </div>
 
-## Hi there, I'm Eric Rex <img src="https://github.com/ericraymundrex/ericraymundrex/blob/main/Mario_Hello_Big.gif?raw=true" width="30px">
+## Hi there, I'm Eric Rex
 
 - I  ♥️  Programming & Designing Data-Intensive Applications.
 
